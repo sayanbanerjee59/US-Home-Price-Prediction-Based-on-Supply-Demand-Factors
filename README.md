@@ -25,7 +25,9 @@ j.TTLCONS:
   This feature gives the values of total construction spending in USA during the observation date (Unit: Millions of Dollars).
 k.HOUSE_TAX:
   This feature gives the values of taxes the owner had to pay during the observation date (UNIT: Thousands).
-l.HOME_PRICE_INDEX:
+l.CPI:
+  The CPI stands for Consumer Price Index it measures change over time in the prices paid by consumers for a representative basket of goods      and services.
+m.HOME_PRICE_INDEX:
   This feature basically serves the purpose of target variable in the dataset.
 
 
